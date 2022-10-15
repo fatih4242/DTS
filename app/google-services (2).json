@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "948481061372",
+    "firebase_url": "https://dtsapp-f0e98-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "dtsapp-f0e98",
+    "storage_bucket": "dtsapp-f0e98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948481061372:android:7f172d9c63c626d8bac279",
+        "android_client_info": {
+          "package_name": "com.fatihtoker.dts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948481061372-dhuquskgrqgb522i1adt5t87i1705a0g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlPK3Ni7_N1XEcPffDr3zJ5Mj5SmGkTnM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948481061372-dhuquskgrqgb522i1adt5t87i1705a0g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
